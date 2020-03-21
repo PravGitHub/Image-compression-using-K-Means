@@ -1,0 +1,5 @@
+
+NOTE: The output image file is displayed in the same directory that the program file is in. Output file path is hard coded.
+
+EXECUTION:
+INPUT-> <path of input image file> <k Value>
